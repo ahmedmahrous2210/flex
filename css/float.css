@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.parent {
+    background-color: aquamarine;
+}
+.child1 {
+    background-color: blueviolet;
+    float: right;
+}
+.child2 {
+    background-color: black;
+    float: right;
+}
+.child {
+    width:30%;
+    height: 200px;
+}
+.clear-fix{
+    clear: both;
+}

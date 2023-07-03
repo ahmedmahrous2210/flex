@@ -1,0 +1,25 @@
+3 to specify layout :
+float 
+flexbox
+grid
+
+
+
+flex ==> tool layout with better code automatically
+by default for child items width fit content
+
+
+
+main-axis ==> justify content property x-axis by default
+cross axis ===> align items 
+
+google fonts :
+https://fonts.google.com/
+
+task : 
+//seach 
+flex-basis 
+flex-grow
+flex-shrink
+// coding 
+remake css using float template to use flexbox 

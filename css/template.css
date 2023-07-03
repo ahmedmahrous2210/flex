@@ -1,0 +1,167 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+}
+.main-header{
+  display: flex;
+  justify-content: space-between;
+
+}
+.h3-head {
+
+  text-decoration: none;
+  padding: 8px 16px;
+  color: black;
+  margin-left: 15px;
+  letter-spacing: 5px;
+}
+
+.nav a {
+  text-decoration: none;
+  padding: 0px 16px;
+  color: black;
+  letter-spacing: 5px;
+}
+
+.w3-image {
+  padding-left: 150px;
+  padding-top: 10px;
+}
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+#about {
+  display: flex;
+  padding-top: 50px;
+  align-items: center;
+  justify-content: center;
+}
+#about .img-about {
+  width: 30%;
+}
+#about .img-about img {
+  width: 100%;
+  height: 433px;
+}
+#about .content-about {
+  width: 40%;
+  padding-left: 50px;
+}
+#about .content-about h1 {
+  text-align: center;
+  margin: 10px 0px;
+  letter-spacing: 5px;
+}
+#about .content-about h5 {
+  text-align: center;
+  margin: 10px 0px;
+}
+#about .content-about p {
+  font-size: 14px;
+}
+
+.container-1 {
+  width: 80%;
+  margin: auto;
+}
+.article-1 {
+  display: flex;
+  padding-top: 50px;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+#article .content-about-1 {
+  width: 40%;
+  padding-left: 50px;
+}
+#article .content-about-1 .ha-1 {
+  text-align: center;
+  margin: 10px 0px;
+  letter-spacing: 5px;
+}
+
+#article .content-about-1 .p-3 {
+  text-align: center;
+  margin: 10px 0px;
+}
+#article .img-about-1 {
+  width: 30%;
+}
+#article .img-about-1 img {
+  width: 100%;
+  height: 300px;
+}
+
+#contact{
+    padding-left: 400px;
+    padding-right: 300px;
+    margin-top: 80px;
+}
+.h1-con{
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+    font-weight: 400;
+}
+
+.p-con{
+   
+    
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        letter-spacing: 3px;
+}
+
+.bold{
+        font-weight: bolder;
+        color: #607d8b;
+        letter-spacing: 4px;
+
+}
+
+.p-cont1{
+    
+    font-family: "Playfair Display";
+    letter-spacing: 2px;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+    
+}
+
+.input{
+    
+  
+    padding: 8px;
+    display: block;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    }
+
+  
+
+  
+
+.footer{
+    padding-top: 32px;
+    padding-bottom: 32px;
+    text-align: center;
+    margin-block-start: 3em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color: #000;
+    background-color: #f1f1f1;
+}
